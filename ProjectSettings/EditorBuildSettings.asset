@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RayCast Information.unity
     guid: 48f65958a4a6c46b08fbba1cba2246cd
+  - enabled: 1
+    path: Assets/Scenes/FaceTracking.unity
+    guid: 5caea8626e0e341be8c6d15ef8acd5df
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8cffed05b122c4a4fb5774b19f47a77e, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1c9766bd361bb466aa4c380295e93cb7, type: 2}
